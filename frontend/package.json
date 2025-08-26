@@ -12,6 +12,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.12",
     "axios": "^1.11.0",
+    "browser-image-compression": "^2.0.2",
     "chat--app": "file:..",
     "lucide-react": "^0.541.0",
     "react": "^19.1.1",
